@@ -9,5 +9,4 @@ This project includes:
 - Model training with Random Forest  
 - Evaluation using classification metrics and AUC  
 - Model persistence using `joblib`  
-- Interactive web app built with **Streamlit**
 
